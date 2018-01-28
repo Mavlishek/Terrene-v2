@@ -1,0 +1,33 @@
+Nex;<i>He stops and gazes up at the wall with you, seemingly admiring the view.</i>;1;0
+Nex;It sure is somethin' eh? Makes ye wonder how long it takes to build such a thing.;1;0
+Nex;I'm told it's quite the sight in the mornin' light. Pity we won't get t'see it.;1;0
+Player;"You're right, I won't see the sun from the other side.":line,4;"Will you be elsewhere by then?":line,22
+Nex;<i>He chuckles softly, turning to look at you.</i>;1;0
+Nex;Aye, ye can't see anythin' from t'other side.;1;0
+Nex;<i>When you begin to start walking again he places a hand on your shoulder, gentle but firm.</i>;1;0
+Nex;<i>As you turn to look at him you notice his grin seems...sharper somehow.</i>;1;0
+Nex;It's been real nice to meet ya, even if under such strange circumstances.;0;0
+Nex;Seems a shame to part ways just yet, don't ye agree?;0;0
+Nex;<i>His tone seemed, off a little. Like he had a plan formulating behind those black eyes.</i>;0;0
+Nex;Why not stay with me a bit longer, I can show ye the world I live in!;0;0
+Nex;<i>His world? Did you not both live in the same one? What was he insinuating?</i>;0;0
+Nex;<i>He took another step to close all distance between you.</i>;0;0
+Nex;Ye see, those rumours about monsters lurkin' in the shadows? The ones ye get told as a kid to keep ye off the streets?;0;0
+Nex;They're true. We do roam around at night. But that doesn't mean we can't also be hospitable too, don't ye think?;0;0
+Nex;<i>You felt sweat turn cold at the back of your neck.</i>;0;0
+Nex;<i>Fear slowly grips your body as two large fangs slip from between his lips.</i>;0;0
+Nex;Let me show ye what it's <i>really</i> like.;0;0
+Nex;<i>You try to move but your body is paralysed, leaving you no time to move before he's upon you.</i>;0;0
+Nex;<i>Everything turns black as you feel a sharp pain in your neck, your final moments of humanity slipping between your fingers.</i>;0;0
+Success;t;0;0
+Nex;Aye, away from the sun. It doesn't do wonders to a vampire's complexion such as mine.;1;0
+Nex;<i>You feel your heart skip a beat. Did he just say...</i>;1;0
+Nex;<i>As you turn to look at him you notice his grin seems...sharper.</i>;0;0
+Nex;Ye see, those rumours about monsters lurkin' in the shadows? The ones ye get told as a kid to keep ye off the streets?;0;0
+Nex;They're true. We do roam around at night. But that doesn't mean we can't also be hospitable too, don't ye think?;0;0
+Nex;<i>You felt sweat turn cold at the back of your neck.</i>;0;0
+Nex;<i>Fear slowly grips your body as two large fangs slip from between his lips.</i>;0;0
+Nex;Let me show ye what it's <i>really</i> like.;0;0
+Nex;<i>You try to move but your body is paralysed, leaving you no time to move before he's upon you.</i>;0;0
+Nex;<i>Everything turns black as you feel a sharp pain in your neck, your final moments of humanity slipping between your fingers.</i>;0;0
+Success;t;0;0

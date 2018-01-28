@@ -1,0 +1,76 @@
+;<i>You awake in a dark alleyway.</i>;0;0
+;<i>The air is still but the temperature is biting cold, making you pull your jacket closer as you observe your surroundings.</i>;0;0
+;<i>Nothing looks memorable as you look for clues as to how you got here, but you do think this area of town looks notably old and rundown.</i>;0;0
+;<i>The bricks of the alley are crumbling in places, and the floor is a mess of rusted sheet metal and waterlogged boxes.</i>;0;0
+;<i>It reminds you of the industrial region of Sector 5, long since closed and abandoned.</i>;0;0
+;<i>How you got here is still a mystery, it's so far from your hometown...</i>;0;0
+;<i>You walk towards the distant street lights in search of bearings, a road sign perhaps. You know it isn't safe to wander alone at night.</i>;0;0
+;<i>Before you reach them a shadow moves silently to block your path.</i>;0;0
+???;Well well, who's this I see?;0;0
+???; You look like yer lost fellah, ain't seen you 'round here before.;0;0
+Player;"I haven't seen <i>you</i> around here before":line,20;"Who are you?":line,16;<i>Investigate the stranger</i>:line,11
+???;<i>His casual demeanor seems out of place given the circumstances, but the ease of his smile is oddly relaxing.</i>;2;0
+???;<i>You recognise his accent as one commonly associated with that of old metal factory workers, but they and their companies went out of business decades ago.</i>;2;0
+???;<i>It gave the feeling of talking to someone stuck in the past, but the man before you couldn't have been more than 30.</i>;2;0
+???;<i>You do not feel very threatened by him, though a part of you wonders if maybe you *should*.</i>;2;0
+Player;"Who are you?":line,16;"I haven't seen <i>you</i> around here before":line,20
+???;Why, the name's Nex. Perhaps you've heard of me, perhaps not. Names have a tendency to spread in these parts ye see.;3;0
+Nex;<i>Now that he mentioned it, the name did seem familiar somehow. You couldn't put a finger on it though.</i>;1;1
+Nex;Now the real question is, who are <i>you</i>?;1;0
+Player;"My name's <NAME>":line,24;"I'm just a passerby.":line,27
+???;Tut tut yer a cheeky one, eh? Think yer a tough guy maybe? Be careful how ye use that, some folks might get real touchy.;0;0
+???; Lucky fer you, i'm more of a relaxed type. The name's Nex.;1;2
+Nex;Now will ye be so kind as to grace me w yer name?;0;0
+Player; "My name's <NAME>":line,24; "I'm just a passerby.":line,27
+Nex;Well it's nice to meet ye, <NAME>. Formalities are so important, don't ye agree?;3;0
+Nex;So what brings you to this neck o' the woods so late at night? Are ye lost perhaps?;1;1
+Player;"A little bit, where am I?":line,32; "No, I was just walking home":line,44
+Nex;<i>He chuckles slightly, seeming amused at your evasiveness.</i>;1;0
+Nex;I suppose we all are in a way, everyone's passin' by somethin'.;1;1
+Nex;That's okay if ye don't wanna tell me, sure ain't wise to be tellin' strangers ye just met personal information now is it!;1;0
+Nex;But humour me this if ye will - what brings you out here so late at night? Ye lost?;2;0
+Player;"A little bit, where am I?":line, 32; "No, I was just walking home":line, 44
+Nex;This is Sector 5 o' course! The town o' Finlen to be precise. I didn't take ye for a local, not got the accent fer it.;3;0
+Nex;<i>You realised then why the place seemed so dangerous - your suspicion had been correct.</i>;1;1
+Nex;<i>This was Sector 5, a place marred with mysterious deaths and midnight sightings of humanoid shadows that vanished in the blink of an eye.</i>;1;0
+Nex;<i>You had always brushed the rumours off as kids stories. But still, no one willingly visited these parts because of them, and the sooner you left the safer you'd feel.</i>;1;0
+Nex;<i>He grins a little, teeth glinting in the street light. He takes a step towards you.</i>;0;1
+Nex;Maybe I can show ye where you want to be headin'? Where is that exactly?;0;0
+Player;"I'm going to Sector 3":line,39;"It's okay, i'll find my own way":line,51
+Nex;<i>He lets out a laugh, running a hand through his hair.</i>;3;0
+Nex;Ye sure are lost ain't ya! How on earth did ye end up here.;3;1
+Nex;Come on, i'll show ye to the border crossin', it's not so far from here.;1;0
+Nex;<i>Whilst he seems relaxed and honest, you get the distinct impression this wasn't a request.</i>;1;0
+Player;"Thanks, but no thanks.":line, 51;"Sure, sounds good.":line, 70
+Nex;<i>He raises an eyebrow at your answer, looking over you quizically.</i>;2;0
+Nex;Is that so? Through this here alleyway? A strange shortcut to be takin' I would say.;2;2
+Nex;Especially for someone, i'd wager, not a local to Sector 5 like myself.;2;0
+Nex;Come, let me accompany you outta here - wouldn't wanna leave ye all alone out here!;1;0
+Nex;<i>You get the distinct impression this wasn't a request, and you become acutely aware of how much taller he is than you.</i>;1;0
+Nex;<i>Having your suspicion confirmed about where exactly you are, one of the roughest parts of the local area, did not help your nerves.</i>;1;0
+Player;"Thanks, but no thanks.":line, 51;"Sure, sounds good.":line, 70
+Nex;<i>He frowns and a moment of irritation flashes across his face, before his smile returns.</i>;2;0
+Nex;Suit yerself, each to their own and all that.;1;3
+Nex;But watch yer back out there, monsters wander the alleys at night.;1;2
+Nex;<i>The glint to his teeth was unsettling, had they gotten...sharper?</i>;1;0
+Nex;<i>You brushed it off as a trick of the light, your nerves overreacting to being in an unknown place.</i>;1;0
+Nex;<i>You knew what he referred to though, the hushed whispers and folk legends.</i>;1;0
+Nex;<i>You didn't want to end up like another one of the missing persons reports.</i>;1;0
+Player;"I'll be sure to watch myself.":line,59;"On second thoughts, can you walk me out?":line,63
+Nex;Watch yer back out there!;3;0
+Nex;<i>He waves as you turn to leave, and you watch him make to walk in the opposite direction.</i>;3;3
+;<i>His tone had sounded friendly, but it still gave you a small chill. It almost felt like a thinly veiled threat.</i>;0;0
+SceneChange;Death1.txt;0;0
+Nex;<i>His smile seems to grow larger as you change your mind, and he lets out a hearty laugh.</i>;3;0
+Nex;A mighty fine idea, safety in numbers after all, right?;3;1
+Nex;Come, i'll show ye to the border wall.;1;0
+Nex;<i>He takes a step closer and places his hand on your back firmly, nudging you towards the end of the alley.</i>;1;0
+Nex;<i>His hand felt cold against your jacket but the touch itself was pleasant enough, given the situation.</i>;1;0
+Nex;<i>You let him guide you out and into the street beyond.</i>;1;0
+SceneChange;Street.txt;0;0
+Nex;<i>He grins widely and claps a hand against your back.</i>;3;0
+Nex;An excellent idea, wouldn't want ye to get lost again! Or worse still, bump into any undesirables.;3;1
+Nex;<i>He takes a step closer and places his hand on your back firmly, nudging you towards the end of the alley.</i>;1;0
+Nex;<i>His hand felt cold against your jacket but the touch itself was pleasant enough, given the situation.</i>;1;0
+Nex;<i>You let him guide you out and into the street beyond.</i>;1;0
+SceneChange;Street.txt;0;0

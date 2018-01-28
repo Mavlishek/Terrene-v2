@@ -1,0 +1,93 @@
+;<i>It was brighter now you were out in the open again.</i>;1;0
+;<i>The added beams of moonlight filtering through the clouds gave you the chance to take a better look at this 'Nex'.</i>;1;0
+Nex;<i>His size and build were certainly imposing, even if the way he moved was loose and confident. He easily kept in time with your walking speed, neither too fast or too slow.</i>;1;0
+Nex;<i>It was comforting somehow, having a guide such as this to walk with.</i>;1;0
+Nex;<i>Not that the situation didn't still give you and uneasy feeling. Though you dismissed the thought as down to being in such a notoriously rough area.</i>;1;0
+Nex;So my lost friend, if ye ain't from round 'ere, what were ye doin in that alley?;1;0
+Player;"I'm not really sure, I just woke up there.":line,7;"I think I was looking for something? Or someone...":line,11
+Nex;<i>He raises an eyebrow at you.</i>;2;0
+Nex;That's quite the mystery ye got there. Perhaps you were lookin fer somethin'?;2;2
+Nex;Not many people come down 'ere unless they're searchin.;2;0
+Player;"I don't know, maybe...":line,26;"So what were <i>you</i> looking for around here?":line,41
+Nex;<i>He raises an eyebrow at you.</i>;2;0
+Nex;Oh really? Now that sure is a mystery. And ye can't remember who or what yer lookin' for?;2;1
+Player;"No, not a clue.":line,14;"I think it was a friend, but my head is blurry...":line,33
+Nex;Strange, strange.;2;0
+Nex;<i>He hums for a few moments, scratching at his beard.</i>;2;2
+Nex;Maybe you'll remember more over time. Perhaps ye hit yer head at some point? That'd cause some memory loss.;1;0
+;<i>Now that he mentioned it your head did feel a little sore. Concussion, perhaps?</i>;1;0
+;<i>But if so, what had you hit your head on? Or worse, <b>who</b> had hit you?</i>;1;0
+Nex;<i>He continued after a brief pause.</i>;1;0
+Nex;Not many people come down 'ere unless they're searchin, so I wouldn't be surpised if that's why yer here.;1;0
+Player;"Maybe...but how did I end up in an alley of all places?":line,22;"So what were <i>you</i> looking for around here?":line,41
+Nex;That's a good question. Sadly I can't answer it fer ya.;1;0
+Nex;<i>He let out a laugh that rumbles in his chest. It made you want to laugh yourself, if only a little.</i>;3;0
+Nex;By the by the border wall ain't too far up ahead, though the crossin' might not be manned this time o' night.;3;0
+Player;"Thanks for guiding me either way.":line,47;"Will you be heading through the border too?":line,78
+Nex;It sure is quite the puzzle, but i'm sure you'll work it out.;1;0
+Nex;Who knows, maybe ye hit yer head? That'd cause some memory loss for sure.;1;2
+;<i>Now that he mentioned it your head did feel a little sore. Concussion, perhaps?</i>;1;0
+;<i>But if so, what had you hit your head on? Or worse, <b>who</b> had hit you?</i>;1;0
+Nex;<i>He continued after a brief pause.</i>;1;0
+Nex;Not many people come down 'ere unless they're searchin, so I wouldn't be surpised if that's why yer here.;1;0
+Player;"Maybe...but how did I end up in an alley of all places?":line,22;"So what were <i>you</i> looking for around here?":line,41
+Nex;A friend ye say? Interesting.;2;0
+Nex;I sure hope they ain't alone out here like yerself was, it's a dangerous place.;2;2
+Nex;Maybe you'll remember more over time. Perhaps ye hit yer head at some point, that'd cause some memory loss.;1;0
+;<i>Now that he mentioned it your head did feel a little sore. Concussion, perhaps?</i>;1;0
+;<i>But if so, what had you hit your head on? Or worse, <b>who</b> had hit you?</i>;1;0
+Nex;<i>He continued after a brief pause.</i>;1;0
+Nex;Not many people come down 'ere unless they're searchin, so I wouldn't be surpised if that's why yer here.;1;0
+Player;"Maybe...but how did I end up in an alley of all places?":line,22;"So what were <i>you</i> looking for around here?":line,41
+Nex;<i>His grin is sharp and quick, followed by a chuckle. It puts you on edge for a moment.</i>;0;0
+Nex;Well if that ain't a question and a half!;3;2
+Nex;I was out lookin' to help lost folks like yerself o' course! Call me a helpful guide to these parts.;3;0
+Nex;<i>You weren't sure how much you believed that statement.</i>;1;0
+Nex;<i>But he had offered to help you, and was still in the process of doing so...</i>;1;0
+Player;"That's really nice of you.":line,47;"That's nice, but why were you <i>really</i> there?":line,62
+Nex;<i>His grin widens and he takes a mock bow.</i>;3;0
+Nex;Why thank ye! I think o' it as a civil duty.;3;1
+Nex;Ol' Nexy here likes to use his local knowledge to get people outta the rougher streets where they don't belong.;1;0
+Nex;Helps to keep the crime down ye see, awful lot o' muggings happen in the backways.;1;0
+Player;"Yeah i've heard things about Sector 5, none of them pleasant.":line,52;"Do you come across many lost people?":line,72
+Nex;<i>He nods his head slowly.</i>;1;0
+Nex;Aye it's not the nicest o' places. But hey, it's a home to me all the same.;1;0
+Nex;Ye just gotta learn to look after yerself out here, sure does toughen you up.;1;0
+Nex;<i>As you look back over him, the size of his build suddenly makes a lot more sense.</i>;1;0
+Nex;Here's the crossin' comin' up now, as promised.;1;0
+Player;"Thanks for the help, Nex.":line,58;"Will you be heading through the border too?":line,78
+Nex;You are most welcome, my friend!;3;0
+Nex;<i>He pats the back of your jacket fondly as the border comes into view.</i>;1;1
+Nex;<i>The wall itself was imposing as it had always been.</i>;1;0
+SceneChange;Wall.txt;1;0
+Nex;<i>His eyes flash with a moment of amusement, followed by a look of hurt.</i>;2;0
+Nex;Why, ye doubt me? Humble Nex, guide to the lost? I'm hurt.;0;2
+Nex;<i>He waves his hand in a sweeping movement as he drops his feigned act of surprise.</i>;1;0
+Nex;Alright, ye got me. I don't <b>just</b> help lost folks, I was also on my way home from the bar. A man's gotta have hobbies yeno?;1;0
+Nex;I was passin' the alley when I saw ye standing there an' thought i'd lend a helpin' hand is all.;1;0
+Player;"Well, thanks Nex. I appreciate it.":line,68;"There's pubs around here? I thought it was an old industrial estate?":line,84
+Nex;You are most welcome, my friend!;3;0
+Nex;<i>He pats the back of your jacket fondly as the border between the two Sectors comes into view.</i>;1;0
+Nex;<i>The wall itself was imposing as it had always been.</i>;1;0
+SceneChange;Wall.txt;1;0
+Nex;You'd be surprised yeno, quite a few folks wander through 'ere.;0;0
+Nex;Most of 'em just took a wrong turn off the highway. Not many like yerself show up wi' no memory though, that is quite rare.;1;0
+Nex;<i>He chuckled to himself, before clearing his throat.</i>;1;0
+Nex;Here's the crossin' comin' up now, as promised.;1;0
+Nex;<i>The wall itself was imposing as it had always been.</i>;1;0
+SceneChange;Wall.txt;1;0
+Nex;Me? Not tonight I don't think, no.;1;0
+Nex;My services are needed elsewhere! Here, to be precise. Best get home before sunrise.;3;1
+Nex;<i>He gives a knowing wink, and you feel like you just missed out on an inside joke.</i>;1;0
+Nex;<i>You smile back as the border between the two Sectors comes into view.</i>;1;0
+Nex;<i>The wall itself was imposing as it had always been.</i>;1;0
+SceneChange;Wall.txt;1;0
+Nex;My my, you are a sharp one ain't ya?;0;0
+Nex;<i>His eyes seemed to twinkle with amusement, and his smile reached his eyes for the first time since you met.</i>;3;0
+Nex;I like you, my lost friend. Not many people are familiar wi' the area's history.;1;1
+Nex;You're correct o'course, this is quite industrial. But there's always a drink if ye know where t'look.;1;0
+Nex;<i>He gives a knowing wink, and you feel like you just missed out on an inside joke.</i>;0;0
+Nex;Either way here's the crossin' comin' up now, as promised.;1;0
+Nex;<i>You looked up to see he was indeed correct.</i>;1;0
+Nex;<i>The wall itself was imposing as it had always been.</i>;1;0
+SceneChange;Wall.txt;1;0

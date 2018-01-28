@@ -1,0 +1,27 @@
+Nex;<i>He stops and gazes up at the wall with you, seemingly admiring the view.</i>;1;0
+Nex;It sure is somethin' eh? Makes ye wonder how long it takes to build such a thing.;1;0
+Nex;I'm told it's quite the sight in the mornin' light. Pity we won't get t'see it.;1;0
+Player;"You're right, I won't see the sun from the other side.":line,4;"Will you be elsewhere by then?":line,17
+Nex;<i>He chuckles softly, turning to look at you.</i>;1;0
+Nex;Aye, ye can't see anythin' from t'other side.;1;0
+Nex;<i>When you begin to start walking again he places a hand on your shoulder, gentle but firm.</i>;1;0
+Nex;<i>As you turn to look at him you notice his grin seems...sharper somehow.</i>;0;0
+Nex;<i>The hair on the back of your neck starts to rise.</i>;0;0
+Nex;Hey now, why the rush? We made it to the wall didn't we?;0;0
+Nex;<i>His laugh is dark, the glint in his eyes predatory.</i>;0;0
+Nex;You didn't specify what to do once we got 'ere.;0;0
+Nex;<i>You feel fear slowly taking over your body as two large fangs slip from between his lips.</i>;0;0
+Nex;I don't know about you, but i'm feelin' rather thirsty after our little walk.;0;0
+Nex;<i>You try to move away but your body is paralysed, leaving you no time to move before he's upon you.</i>;0;0
+Nex;<i>Everything turns black as you feel a sharp pain in your neck, your screams going unanswered in the lonely night.</i>;0;0
+Death;t;0;0
+Nex;Aye, sunlight's not so good fer my complexion. Yeno, bein' a vampire and all.;1;0
+Nex;<i>You feel your heart skip a beat. Did he just say...</i>;1;0
+Nex;<i>As you turn to look at him you notice his grin seems...sharper.</i>;0;0
+Nex;What? Ye thought a human would be wanderin' around alone this late at night? In the alleys of Sector 5?;0;0
+Nex;<i>The hair on the back of your neck starts to rise.</i>;0;0
+Nex;No no, my little lost friend. Only <i>monsters</i> live in these parts.;0;0
+Nex;<i>You try to move away but your body is paralysed, leaving you no time to move before he's upon you.</i>;0;0
+Nex;I don't know about you, but i'm feelin' rather thirsty after our little walk.;0;0
+Nex;<i>Everything turns black as you feel a sharp pain in your neck, your screams going unanswered in the lonely night.</i>;0;0
+Death;t;0;0

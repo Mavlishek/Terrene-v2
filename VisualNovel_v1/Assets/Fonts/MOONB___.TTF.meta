@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d0eded012b53032448994d1b23ebe9ff
+timeCreated: 1504717424
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Moonbeam
+  fontNames:
+  - Moonbeam
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

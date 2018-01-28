@@ -1,0 +1,5 @@
+Nex;<i>Towering slabs of solid concrete greeted you as you craned your neck to look upwards.</i>;1;0
+Nex;<i>The structure was so high that to look straight up gave an impending sense of vertigo, strong enough to make your stomach queasy.</i>;1;0
+Nex;<i>Still, knowing you were almost into your home region again was comforting.</i>;1;0
+Nex;Hopefully ye won't find yerself in such a tight spot next time eh? There might not be nice folk like me around to help!;3;0
+Decision;currentMood1-lessThan-10-Success.txt-Death2.txt;3;0

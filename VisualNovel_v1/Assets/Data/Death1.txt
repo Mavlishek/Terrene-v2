@@ -1,0 +1,15 @@
+;<i>You shrug it off as you reach the end of the alley, looking around for signs of the border wall that will take you back home.</i>;0;0
+;<i>Once you catch sight of it you start walking, seeing no other movements as you head downtown.</i>;0;0
+;<i>Your mind wanders back to the stranger. That name, Nex...</i>;0;0
+;<i>Why was it so familiar? Perhaps you heard it in the news once.</i>;0;0
+;<i>It certainly wasn't a common name. But his face hadn't seemed memorable at all, save for those black eyes. So black you could't distinguish pupil from iris.</i>;0;0
+;<i>You decide to put the whole experience behind you as you approach the gateway that will allow you to leave this sector for good.</i>;0;0
+;<i>As you move to pass beneath the archway you feel a sudden breeze behind you which makes you stop.</i>;0;0
+;<i>You look behind you but can't see anything in the street. Everything looks quiet and still.</i>;0;0
+;<i>As you turn back you jump backwards as a familiar face is standing a few feet in front of you.</i>;0;0
+Nex;Didn't I warn ye to watch yer back fer monsters?;0;0
+Nex;'Course, I didn't tell ye that monsters can be found behind friendly smiles.;1;0
+Nex;<i>He grins sharply and you feel fear slowly taking over your body as two large fangs slip from between his lips.</i>;0;0
+Nex;<i>You try to move away but your body is paralysed, leaving you no time to move before he's upon you.</i>;0;0
+Nex;<i>Everything turns black as you feel a sharp pain in your neck, your screams going unanswered in the lonely night.</i>;0;0
+Death;t;0;0
